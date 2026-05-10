@@ -12,3 +12,11 @@ X.npy
 y.npy
 
 .DS_Store
+dataset/
+
+models/*.h5
+
+X.npy
+y.npy
+
+temp.wav
