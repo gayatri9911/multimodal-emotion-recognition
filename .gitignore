@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+env/
+
+temp.wav
+
+models/*.h5
+
+X.npy
+y.npy
+
+.DS_Store
