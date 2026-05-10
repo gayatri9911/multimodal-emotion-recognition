@@ -177,7 +177,7 @@ streamlit run app.py
 
 ## 🔹 Main Dashboard
 
-![Dashboard](screenshots/Main.png)
+![main](screenshots/Main.png)
 
 ---
 
